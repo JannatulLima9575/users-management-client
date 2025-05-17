@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Users Management Client</h1>
+      <h1>Users Management Application</h1>
       <User usersPromise={usersPromise}></User>
     </>
   )
